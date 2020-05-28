@@ -8,9 +8,8 @@
   Gatsby's default starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+# Gatsby Minimal Blog Starter
+Minimal gatsby netlify CMS blog starter with no unecessary plugin, packages, styling.
 
 ## 🚀 Quick start
 
@@ -20,7 +19,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new my-blog https://github.com/imjamesku/gatsby-blog-starter.git
     ```
 
 1.  **Start developing.**
