@@ -9,7 +9,7 @@
 </h1>
 
 # Gatsby Minimal Blog Starter
-Minimal gatsby netlify CMS blog starter with no unecessary plugin, packages, styling.
+Minimal gatsby netlify CMS blog starter with **NO unecessary plugin, packages, styling.**
 
 ## 🚀 Quick start
 
