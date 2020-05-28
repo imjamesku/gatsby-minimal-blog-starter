@@ -4,12 +4,9 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
 
 # Gatsby Minimal Blog Starter
-Minimal gatsby netlify CMS blog starter with no unecessary plugin, packages, styling.
+Minimal gatsby netlify CMS blog starter with **NO unecessary plugin, packages, styling.**
 
 [Demo](https://minimal-blog-starter.netlify.app/)
 
@@ -17,10 +14,10 @@ Minimal gatsby netlify CMS blog starter with no unecessary plugin, packages, sty
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    Use the Gatsby CLI to create a new site, specifying the blog starter.
 
     ```shell
-    # create a new Gatsby site using the default starter
+    # create a new Gatsby site using the blog starter
     gatsby new my-blog https://github.com/imjamesku/gatsby-blog-starter.git
     ```
 
