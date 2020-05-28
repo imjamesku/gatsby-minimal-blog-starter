@@ -12,10 +12,10 @@ Minimal gatsby netlify CMS blog starter with **NO unecessary plugin, packages, s
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    Use the Gatsby CLI to create a new site, specifying the blog starter.
 
     ```shell
-    # create a new Gatsby site using the default starter
+    # create a new Gatsby site using the blog starter
     gatsby new my-blog https://github.com/imjamesku/gatsby-blog-starter.git
     ```
 
