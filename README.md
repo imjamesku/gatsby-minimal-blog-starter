@@ -4,9 +4,6 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
 
 # Gatsby Minimal Blog Starter
 Minimal gatsby netlify CMS blog starter with **NO unecessary plugin, packages, styling.**
