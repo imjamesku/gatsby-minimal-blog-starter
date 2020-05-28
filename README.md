@@ -11,6 +11,8 @@
 # Gatsby Minimal Blog Starter
 Minimal gatsby netlify CMS blog starter with no unecessary plugin, packages, styling.
 
+[Demo](https://minimal-blog-starter.netlify.app/)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
